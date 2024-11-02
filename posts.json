@@ -1,0 +1,20 @@
+[
+    {
+        "id": "post1",
+        "author": "Abel",
+        "title": "Anteckning 1",
+        "text": "Indicator of how the metric changed, rendered with an arrow below the metric. If delta is negative (int/float) or starts with a minus sign (str), the arrow points down and the text is red; else the arrow points up and the text is green."
+    },
+    {
+        "id": "post2",
+        "author": "David",
+        "title": "Anteckning 2",
+        "text": "If normal (default), the delta indicator is shown as described above. If inverse, it is red when positive and green when negative. This is useful when a negative change is considered good, e.g. if cost decreased."
+    },
+    {
+        "id": "post3",
+        "author": "Salomo",
+        "title": "Anteckning 3",
+        "text": "If normal (default), the delta indicator is shown as described above. If inverse, it is red when positive and green when negative. This is useful when a negative change is considered good, e.g. if cost decreased."
+    }
+]

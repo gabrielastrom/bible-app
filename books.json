@@ -1,0 +1,371 @@
+[
+    {
+        "title": "1moseboken",
+        "name": "Första Mosebok",
+        "text": "Skapelsen och patriarkerna.",
+        "image": "https://media.bible.art/ef18de7f-b39f-42d3-8d08-8a0becd0d963-compressed.jpg"
+    },
+    {
+        "title": "2moseboken",
+        "name": "Andra Mosebok",
+        "text": "Israels uttåg från Egypten.",
+        "image": "https://media.bible.art/de75753a-6d1c-4ddb-a6c7-3636a933e9fb-compressed.jpg"
+    },
+    {
+        "title": "3moseboken",
+        "name": "Tredje Mosebok",
+        "text": "Lagar och regler för israeliterna.",
+        "image": "https://media.bible.art/85b02cd8-b2f5-4fa0-b02a-2e744b9a7614-compressed.jpg"
+    },
+    {
+        "title": "4moseboken",
+        "name": "Fjärde Mosebok",
+        "text": "Israeliternas vandring i öknen.",
+        "image": "https://media.bible.art/6e5c9d8c-89c8-49e6-ac94-1147ea3194da-compressed.jpg"
+    },
+    {
+        "title": "5moseboken",
+        "name": "Femte Mosebok",
+        "text": "Mose tal till folket.",
+        "image": "https://media.bible.art/098da79d-adf7-4766-9f1c-2e69d4044683-compressed.jpg"
+    },
+    {
+        "title": "josua",
+        "name": "Josua",
+        "text": "Intagandet av det utlovade landet.",
+        "image": "https://media.bible.art/e00b2ce1-25b2-4ed8-8e6e-7ba95f25a553-compressed.jpg"
+    },
+    {
+        "title": "dommarboken",
+        "name": "Domarboken",
+        "text": "Domarnas tid i Israel.",
+        "image": "https://media.bible.art/29997d9c-d91c-4a97-aefd-56fe7c170d47-thumbnail.jpg"
+    },
+    {
+        "title": "rut",
+        "name": "Rut",
+        "text": "En berättelse om trohet och frälsning.",
+        "image": "https://media.bible.art/fefb15ae-4637-4f00-958c-69f752a132be-thumbnail.jpg"
+    },
+    {
+        "title": "1samuel",
+        "name": "Första Samuelsboken",
+        "text": "Samuel, Saul och Davids uppgång.",
+        "image": "https://media.bible.art/1e715b40-4249-4686-92f2-331897b492b3-compressed.jpg"
+    },
+    {
+        "title": "2samuel",
+        "name": "Andra Samuelsboken",
+        "text": "Davids regeringstid.",
+        "image": "https://media.bible.art/ac51df77-cb36-4718-a29a-994e0e85a32d-compressed.jpg"
+    },
+    {
+        "title": "1kung",
+        "name": "Första Kungaboken",
+        "text": "Kung Salomos tid och riket delas.",
+        "image": "https://media.bible.art/beb4a529-6987-4a52-a978-b52f67357b1b-compressed.jpg"
+    },
+    {
+        "title": "2kung",
+        "name": "Andra Kungaboken",
+        "text": "Rikets fall och deportation.",
+        "image": "https://media.bible.art/b4b0abef-0c42-4f53-8563-e6f9abcd6e93-thumbnail.jpg"
+    },
+    {
+        "title": "1krön",
+        "name": "Första Krönikeboken",
+        "text": "Davids släktregister och regeringstid.",
+        "image": "https://media.bible.art/000df5f9-806d-464d-ac2b-76534c778037-thumbnail.jpg"
+    },
+    {
+        "title": "2krön",
+        "name": "Andra Krönikeboken",
+        "text": "Salomos tid och rikets historia.",
+        "image": "https://media.bible.art/75ddca29-c6f5-4323-8b8d-fc2f01db2dbb-thumbnail.jpg"
+    },
+    {
+        "title": "esra",
+        "name": "Esra",
+        "text": "Återkomsten från exil och tempelbygget.",
+        "image": "https://media.bible.art/8b2212e3-1081-4d48-9f68-be8845c4ebbc-thumbnail.jpg"
+    },
+    {
+        "title": "nehemja",
+        "name": "Nehemja",
+        "text": "Byggandet av Jerusalems murar.",
+        "image": "https://media.bible.art/6cb77829-a89b-485e-99a0-6108e55197f2-compressed.jpg"
+    },
+    {
+        "title": "ester",
+        "name": "Ester",
+        "text": "En judisk drottning räddar sitt folk.",
+        "image": "https://media.bible.art/4c054320-1631-4aab-ab1c-08bfc4e0a3b5-compressed.jpg"
+    },
+    {
+        "title": "job",
+        "name": "Job",
+        "text": "Lidande och tro.",
+        "image": "https://media.bible.art/b2dcfa04-9bc5-4647-beac-fff9b832a142-compressed.jpg"
+    },
+    {
+        "title": "psaltaren",
+        "name": "Psaltaren",
+        "text": "En samling psalmer och böner.",
+        "image": "https://media.bible.art/d9f8a2d5-a262-4b12-889b-9261eb860ed7-compressed.jpg"
+    },
+    {
+        "title": "ordspråksboken",
+        "name": "Ordspråksboken",
+        "text": "Visdomsord och råd.",
+        "image": "https://media.bible.art/65e8db55-925c-4ab5-87e1-f4931e3f2390-thumbnail.jpg"
+    },
+    {
+        "title": "predikaren",
+        "name": "Predikaren",
+        "text": "En filosofisk betraktelse över livet.",
+        "image": "https://media.bible.art/f25df4dc-3ecf-4849-843f-0bb7d9b1b58c-compressed.jpg"
+    },
+    {
+        "title": "högavisan",
+        "name": "Höga Visan",
+        "text": "En kärlekssång.",
+        "image": "https://media.bible.art/4c9c2741-9315-4e33-87de-9c9eaf5f34c1-compressed.jpg"
+    },
+    {
+        "title": "jesaja",
+        "text": "Profetior om dom och hopp.",
+        "image": "https://media.bible.art/0157e01e-f96f-4f98-9c4b-d7d28e2f6df0-compressed.jpg"
+    },
+    {
+        "title": "jeremia",
+        "text": "Profetens budskap om dom och förnyelse.",
+        "image": "https://media.bible.art/bf367317-e88f-4744-9ed7-1aef92878a3d-compressed.jpg"
+    },
+    {
+        "title": "klagovisorna",
+        "text": "Sånger av sorg över Jerusalems fall.",
+        "image": "https://media.bible.art/c60b8f04-cb64-4625-b31e-0d6a05e5c567-compressed.jpg"
+    },
+    {
+        "title": "hesekiel",
+        "text": "Profetior och visioner under exilen.",
+        "image": "https://media.bible.art/5db55f7b-69a8-4a0a-92c6-0b50ecfc09ad-compressed.jpg"
+    },
+    {
+        "title": "daniel",
+        "text": "Berättelser och visioner från exilen.",
+        "image": "https://media.bible.art/64f167c6-54a1-4df5-87c7-91a0e90a1e39-compressed.jpg"
+    },
+    {
+        "title": "hosea",
+        "text": "En profets kärlekshistoria som symbol.",
+        "image": "https://media.bible.art/8e94d6c2-738d-4aef-8c4e-f7c8a63d21a6-compressed.jpg"
+    },
+    {
+        "title": "joel",
+        "text": "Profetior om Guds dom och frälsning.",
+        "image": "https://media.bible.art/cb72b7e8-1a7b-4bb1-9ef3-08e882fb1a7e-compressed.jpg"
+    },
+    {
+        "title": "amos",
+        "text": "En herdes budskap om rättvisa.",
+        "image": "https://media.bible.art/9e927efb-6a11-4b82-8c60-d484efce37ec-compressed.jpg"
+    },
+    {
+        "title": "obadja",
+        "text": "En kort profetia om Edoms fall.",
+        "image": "https://media.bible.art/1b453cd3-9b8e-4be3-8d85-e4e33dd51c52-compressed.jpg"
+    },
+    {
+        "title": "Jona",
+        "text": "En profets flykt och kallelse.",
+        "image": "https://media.bible.art/7184c7ad-19c7-44fc-a0f2-c4b9918b5551-compressed.jpg"
+    },
+    {
+        "title": "Mika",
+        "text": "Profetior om dom och frälsning.",
+        "image": "https://media.bible.art/a3d7cdd5-5f65-453a-9291-5b1dd0cce55c-compressed.jpg"
+    },
+    {
+        "title": "Nahum",
+        "text": "Profetior om Nineves fall.",
+        "image": "https://media.bible.art/6d5e2e24-23bb-4d8c-9d6b-c6bcb5a2c81e-compressed.jpg"
+    },
+    {
+        "title": "Habackuk",
+        "text": "En profets klagovisor och tröst.",
+        "image": "https://media.bible.art/073c3f93-36f6-4719-a6a4-5b9c320fbf91-compressed.jpg"
+    },
+    {
+        "title": "Sefanja",
+        "text": "Profetior om dom och förnyelse.",
+        "image": "https://media.bible.art/b3875971-cf13-4e2f-a9de-90b2f19e6ff0-compressed.jpg"
+    },
+    {
+        "title": "Haggai",
+        "text": "Uppmaningar att återuppbygga templet.",
+        "image": "https://media.bible.art/3f7bc47e-2ee6-4c27-8e80-f180f3bace28-compressed.jpg"
+    },
+    {
+        "title": "Sakarja",
+        "text": "Profetior och visioner om framtiden.",
+        "image": "https://media.bible.art/12c5b5d7-6f65-4e5b-bb9b-1dc15fdfc56c-compressed.jpg"
+    },
+    {
+        "title": "Malaki",
+        "text": "Guds budskap genom sin profet.",
+        "image": "https://media.bible.art/c7a63e0b-4d4e-4903-a510-f1b3bfb3e4a4-compressed.jpg"
+    },
+    {
+        "title": "Matteus",
+        "name": "Matteusevangeliet",
+        "text": "Jesus liv och undervisning.",
+        "image": "https://media.bible.art/aff582a4-3e64-4c37-a9d6-39c5822e9f37-compressed.jpg"
+    },
+    {
+        "title": "Markus",
+        "name": "Markusevangeliet",
+        "text": "Jesus gärningar och lidande.",
+        "image": "https://media.bible.art/caea2f19-676d-42d3-9738-6d2c4c8390a5-compressed.jpg"
+    },
+    {
+        "title": "Lukas",
+        "name": "Lukasevangeliet",
+        "text": "Jesus liv och liknelser.",
+        "image": "https://media.bible.art/f429e493-68a6-41d2-90a1-429f7d5162db-compressed.jpg"
+    },
+    {
+        "title": "Johannes",
+        "name": "Johannesevangeliet",
+        "text": "Jesus gudomlighet och kärlek.",
+        "image": "https://media.bible.art/1d44da52-5f92-4c1b-978d-cb6f36b76d99-compressed.jpg"
+    },
+    {
+        "title": "Apostlagärningarna",
+        "name": "Apostlagärningarna",
+        "text": "De första kristna och kyrkans spridning.",
+        "image": "https://media.bible.art/156eed1a-e04b-4cdb-bf9f-8a57de7cf93b-compressed.jpg"
+    },
+    {
+        "title": "Romarbrevet",
+        "name": "Romarbrevet",
+        "text": "Paulus undervisning om tro och frälsning.",
+        "image": "https://media.bible.art/46ef5d1c-5e65-4be0-8a6e-6d43810976cc-compressed.jpg"
+    },
+    {
+        "title": "1korintierbrevet",
+        "name": "Första Korintierbrevet",
+        "text": "Paulus brev till församlingen i Korinth.",
+        "image": "https://media.bible.art/7be227be-75c1-4f5d-951f-e365490bc504-compressed.jpg"
+    },
+    {
+        "title": "2korintierbrevet",
+        "name": "Andra Korintierbrevet",
+        "text": "Paulus fortsatta brev till Korinth.",
+        "image": "https://media.bible.art/0d1c0d0e-40ba-4217-90d2-1a486dcd2554-compressed.jpg"
+    },
+    {
+        "title": "Galaterbrevet",
+        "text": "Paulus brev om frihet i Kristus.",
+        "image": "https://media.bible.art/81e43c4e-f5f3-4147-9d74-7d63db6f9946-compressed.jpg"
+    },
+    {
+        "title": "Efesierbrevet",
+        "text": "Paulus brev om enhet i kyrkan.",
+        "image": "https://media.bible.art/67e22c72-cbb3-448d-8c2b-febd53695bfa-compressed.jpg"
+    },
+    {
+        "title": "Filipperbrevet",
+        "text": "Paulus brev om glädje i tro.",
+        "image": "https://media.bible.art/356d7e9f-8d82-42ad-b0c1-eaf9fbb4a320-compressed.jpg"
+    },
+    {
+        "title": "Kolosserbrevet",
+        "text": "Paulus brev om Kristi överhöghet.",
+        "image": "https://media.bible.art/9f48b591-4b0b-4f12-bd3d-dc8a4c0af57a-compressed.jpg"
+    },
+    {
+        "title": "1thessalonikerbrevet",
+        "name": "Första Thessaloniker brevet",
+        "text": "Paulus brev om Kristi återkomst.",
+        "image": "https://media.bible.art/45f45f14-b0cb-4c5f-87b6-1c15af5d1a15-compressed.jpg"
+    },
+    {
+        "title": "2thessalonikerbrevet",
+        "name": "Andra Thessalonikerbrevet",
+        "text": "Paulus fortsatta brev till Thessalonike.",
+        "image": "https://media.bible.art/392de3b7-b8fc-49a6-9f4e-74619a5c86c3-compressed.jpg"
+    },
+    {
+        "title": "1timoteusbrevet",
+        "name": "Första Timoteusbrevet",
+        "text": "Paulus råd till Timotheos.",
+        "image": "https://media.bible.art/4e1ec5fa-5dc5-438f-a727-f1ea4e2b8fef-compressed.jpg"
+    },
+    {
+        "title": "2timoteusbrevet",
+        "name": "Andra Timoteusbrevet",
+        "text": "Paulus sista brev till Timotheos.",
+        "image": "https://media.bible.art/146c3b5c-5934-4da8-8bc8-b2b42cb65ba1-compressed.jpg"
+    },
+    {
+        "title": "Titusbrevet",
+        "text": "Paulus brev med råd till Titus.",
+        "image": "https://media.bible.art/0f31fa32-6a56-4180-9626-2724e63ccebe-compressed.jpg"
+    },
+    {
+        "title": "Filemonbrevet",
+        "text": "Paulus brev om försoning.",
+        "image": "https://media.bible.art/aebd70a6-4e30-44a0-8bdb-1075e368d9b0-compressed.jpg"
+    },
+    {
+        "title": "Hebreerbrevet",
+        "text": "Kristi överlägsenhet och tro.",
+        "image": "https://media.bible.art/2550cc6c-f238-45b3-b32d-4b877f009ae2-compressed.jpg"
+    },
+    {
+        "title": "Jakobsbrevet",
+        "text": "Praktisk tro och visdom.",
+        "image": "https://media.bible.art/9d8e86e8-2d0e-4370-8a26-d6faadcc2b62-compressed.jpg"
+    },
+    {
+        "title": "1petrusbrevet",
+        "name": "Första Petrusbrevet",
+        "text": "Hopp och uthållighet i lidande.",
+        "image": "https://media.bible.art/4b9f73a3-1e30-4c41-a727-05b4a6502f5f-compressed.jpg"
+    },
+    {
+        "title": "2petrusbrevet",
+        "name": "Andra Petrusbrevet",
+        "text": "Varningar och uppmuntran.",
+        "image": "https://media.bible.art/0f54d6cf-0630-4a21-a6ec-6a2e8b7fc61e-compressed.jpg"
+    },
+    {
+        "title": "1johannesbrevet",
+        "name": "Första Johannesbrevet",
+        "text": "Kärlek och sanning.",
+        "image": "https://media.bible.art/4d7aeed8-5587-4c3a-97d4-38e14c979eb3-compressed.jpg"
+    },
+    {
+        "title": "2johannesbrevet",
+        "name": "Andra Johannesbrevet",
+        "text": "Kort brev om kärlek och sanning.",
+        "image": "https://media.bible.art/b407e93b-bdc7-4cf4-82cb-19d25a8f9b1e-compressed.jpg"
+    },
+    {
+        "title": "3johannesbrevet",
+        "name": "Tredje Johannesbrevet",
+        "text": "Kort brev om gästfrihet.",
+        "image": "https://media.bible.art/54b0ae90-f0ee-44d3-9677-f749cd030316-compressed.jpg"
+    },
+    {
+        "title": "Judas brev",
+        "text": "Varning mot falska lärare.",
+        "image": "https://media.bible.art/a1576be3-0b3c-44d4-88b7-4eaed5e0735a-compressed.jpg"
+    },
+    {
+        "title": "Uppenbarelseboken",
+        "text": "Visioner om tidens slut.",
+        "image": "https://media.bible.art/26a39fce-9cfe-413b-b998-f40daecdd3bc-compressed.jpg"
+    }
+]
