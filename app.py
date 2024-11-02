@@ -124,7 +124,7 @@ with tab3:
                         "card": {
                             "margin": "10px",
                             "width": "350px",
-                            "height": "400px",
+                            "height": "600px",
                             "padding": "24px",
                             "border": "1px solid rgba(255, 255, 255, 0.18)"
                         }
