@@ -114,7 +114,7 @@ with tab3:
     with col2:
         num_columns = 3
         columns = st.columns(num_columns)
-        for i, post in enumerate(posts):
+        for i, post in enumerate(reversed(posts)):
             with columns[i % num_columns]:
                 card(
                     key=post["id"],
