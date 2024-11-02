@@ -1,20 +1,38 @@
 [
     {
         "id": "post1",
-        "author": "Abel",
-        "title": "Anteckning 1",
-        "text": "Indicator of how the metric changed, rendered with an arrow below the metric. If delta is negative (int/float) or starts with a minus sign (str), the arrow points down and the text is red; else the arrow points up and the text is green."
+        "author": "Mose123",
+        "title": "Guds förbund med Noa",
+        "text": "I Första Moseboken 9:13-17 upprättar Gud sitt förbund med Noa efter syndafloden och sätter regnbågen som ett tecken för detta förbund. Denna passage understryker Guds löfte att aldrig mer förstöra jorden med en flod. Regnbågen fungerar som en påminnelse om Guds nåd och trofasthet. Detta löfte visar på Guds suveränitet och barmhärtighet, och betonar vikten av att Gud håller sina löften. För dagens läsare kan detta ses som en symbol för hopp och påminnelse om att Gud är med oss även i svåra tider. Regnbågen kan inspirera oss att lita på Guds omsorg och trofasthet i våra egna liv."
     },
     {
         "id": "post2",
-        "author": "David",
-        "title": "Anteckning 2",
-        "text": "If normal (default), the delta indicator is shown as described above. If inverse, it is red when positive and green when negative. This is useful when a negative change is considered good, e.g. if cost decreased."
+        "author": "Abraham234",
+        "title": "Tro och lydnad",
+        "text": "I Första Moseboken 22:1-14 prövar Gud Abrahams tro genom att be honom offra sin son Isak. Trots den stora personliga kostnaden visar Abraham stor lydnad och tillit till Gud. I sista stund ingriper Gud och tillhandahåller ett vädur som offer istället. Denna berättelse illustrerar djupet av Abrahams tro och den yttersta lydnaden som Gud efterfrågar. För dagens troende är detta en kraftfull påminnelse om att förtroende för Gud ofta kräver att vi överlämnar våra mest värdefulla tillgångar till Honom. Det visar också Guds provision och att Han belönar trofasthet."
     },
     {
         "id": "post3",
-        "author": "Salomo",
-        "title": "Anteckning 3",
-        "text": "If normal (default), the delta indicator is shown as described above. If inverse, it is red when positive and green when negative. This is useful when a negative change is considered good, e.g. if cost decreased."
+        "author": "Josef345",
+        "title": "Försoning och förlåtelse",
+        "text": "I Första Moseboken 50:15-21 möter Josef sina bröder efter deras fars, Jakobs, död. Bröderna fruktar att Josef ska söka hämnd för deras tidigare svek. Istället visar Josef stor nåd och förlåtelse, med orden: 'Ni tänkte ont mot mig, men Gud har tänkt det till godo' (v. 20). Detta tema av försoning och förlåtelse är centralt i berättelsen om Josef. Hans vilja att förlåta visar på Guds kraft att vända det onda till något gott. För dagens läsare är detta en uppmuntran att praktisera förlåtelse och lita på Guds övergripande plan, även när vi möter svåra situationer."
+    },
+    {
+        "id": "post4",
+        "author": "Rut456",
+        "title": "Trofasthetens belöning",
+        "text": "I Ruts bok 1:16-18 uttrycker Rut sin beslutsamhet att stanna med sin svärmor Noomi, trots att det innebär att lämna sitt eget folk och land. Ruts ord, 'Dit du går, går också jag' (v. 16), illustrerar hennes djupa lojalitet och trofasthet. Denna berättelse betonar värdet av trofasthet och hur sådan hängivenhet kan leda till oväntade välsignelser. Rut blir en förfader till kung David och därmed en del av Jesu släktlinje. För oss idag är detta en påminnelse om att trofasthet och hängivenhet till våra nära och kära kan ha långvariga och positiva konsekvenser."
+    },
+    {
+        "id": "post5",
+        "author": "David567",
+        "title": "Herren är min herde",
+        "text": "Psaltaren 23 är en av de mest älskade psalmerna och tillskrivs kung David. Den beskriver Gud som en herde som tar hand om sina får. David skriver, 'Herren är min herde, mig skall intet fattas' (v. 1). Denna bild av Gud som en vårdande och beskyddande herde ger tröst och hopp till många troende. Psalmens betoning på Guds närvaro, beskydd och välsignelse under alla livets omständigheter är universell och tidlös. För dagens läsare ger denna psalm trygghet och förvissning om att Gud är med oss och leder oss, oavsett vad vi går igenom."
+    },
+    {
+        "id": "post6",
+        "author": "Ester678",
+        "title": "Mod i prövningens stund",
+        "text": "I Esters bok 4:14 uppmanar Mordokai drottning Ester att använda sin position för att rädda sitt folk från utrotning. Han säger: 'Vem vet om du inte har nått kunglig värdighet just för en tid som denna?' Esters mod att gå inför kungen, trots risken för sitt eget liv, visar på hennes starka karaktär och tro. Denna berättelse betonar vikten av mod och handling i avgörande ögonblick. För dagens läsare är Ester ett exempel på hur en person kan göra stor skillnad genom att stå upp för rättvisa och använda sina resurser och positioner för att skydda och hjälpa andra."
     }
 ]
